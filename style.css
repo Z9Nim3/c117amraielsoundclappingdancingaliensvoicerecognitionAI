@@ -1,0 +1,48 @@
+body
+{
+    font-family:'Oswald';
+    background:scroll;
+    background-image: url(https://cdn.wallpapersafari.com/8/35/FqsTV8.jpg);
+    background-position: center;
+    font-weight: 700;
+}
+
+ .header_div
+ {
+  background: fixed;
+  color: white;
+  outline-style: solid;
+  outline-color: black;
+  outline-width: medium;
+ }
+
+ .header_div p{
+    font-family:monospace;
+    color: rgb(red, green, blue);
+    outline-color: black;
+    letter-spacing: 1.5px;
+    font-size: 15px;
+    font-weight: bolder;
+    outline-width: medium;
+ }
+
+ .main_div button{
+    font-family: 'Oswald';
+    font-weight: bolder;
+    font-style: unset;
+    margin-top: 30px;
+    width:130px;
+    letter-spacing: 1.5px;
+ }
+
+ .copy_right_footer {
+    position: fixed;
+    color: royalblue;
+    bottom:0%;
+    width:100%;
+    font-size: 20px;
+    background-color: darkblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: black;
+ }
